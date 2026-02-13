@@ -29,4 +29,4 @@ From the analysis of 10,000+ operational records, I discovered:
 ### 📂 How to View
 You can download the full Excel file to explore the interactive dashboard here:
 [Download Excel File](งานซ้อมในresume1.xlsx)
-Example (image2.png)
+![Example](image2.png)
